@@ -1,0 +1,22 @@
+{
+  "name": "html-repo",
+  "version": "1.0.0",
+  "description": "this is a test diroctory git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneebiqbal/html-repo.git"
+  },
+  "author": "aneebiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneebiqbal/html-repo/issues"
+  },
+  "homepage": "https://github.com/aneebiqbal/html-repo#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
